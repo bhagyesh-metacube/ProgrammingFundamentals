@@ -40,7 +40,7 @@ public class BinaryToOctal {
 	        return octalnumber;
 	}
 	public boolean checkBinary(int binary)
-	{											/* checking number is binary or not*/
+	{											/* checking number is a binary or not*/
 		boolean status = true;
         while(true){
             if(binary == 0){
